@@ -1,0 +1,29 @@
+{
+  "name": "일일 컨디션 & 프로그램 기록부",
+  "short_name": "일일기록",
+  "description": "발달장애·뇌전증 이용인 모니터링 시스템",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#155A8A",
+  "background_color": "#FFFFFF",
+  "lang": "ko-KR",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23155A8A' width='192' height='192' rx='45'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='white' font-family='system-ui'>📋</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect fill='%23155A8A' width='192' height='192' rx='45'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='white' font-family='system-ui'>📋</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["healthcare", "productivity"],
+  "prefer_related_applications": false
+}
